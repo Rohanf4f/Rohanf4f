@@ -27,9 +27,11 @@ I love building products that solve real-world problems — whether it’s throu
 ---
 
 ### 💬 Quote of the Day
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&category=motivational" alt="Random Motivational Quote"/>
 </p>
+
 
 ---
 
