@@ -100,11 +100,12 @@ I love building products that solve real-world problems — whether it’s throu
 
 ---
 
-### 🌐 Activity Graph
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanf4f&theme=react-dark&area=true&hide_border=true" alt="3D Contribution Wave" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanf4f&theme=tokyo-night" alt="Rohanf4f's GitHub Activity Graph" />
 </p>
+
 
 ---
 
