@@ -54,9 +54,14 @@
 
 ---
 
-### 🐍 My Contribution Snake
-![snake gif](https://github.com/Rohanf4f/Rohanf4f/blob/output/github-contribution-grid-snake.svg)
 
+### 🐍 Contribution Activity
+
+![GitHub Snake Animation](https://raw.githubusercontent.com/Rohanf4f/Rohanf4f/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Rohanf4f/Rohanf4f?label=Last%20updated&style=for-the-badge&color=blueviolet" alt="Last Updated Badge" />
+</p>
 ---
 
 ### 💬 Quote of the Day
