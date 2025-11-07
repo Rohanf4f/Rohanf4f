@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:rohanpatil4002@gmail.com"><img src="https://img.shields.io/badge/Email-rohanpatil4002%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/Rohanf4f"><img src="https://img.shields.io/github/followers/Rohanf4f?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/rohanpatil"><img src="https://img.shields.io/badge/LinkedIn-Rohan%20Patil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/whorohanpatil"><img src="https://img.shields.io/badge/LinkedIn-Rohan%20Patil-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
