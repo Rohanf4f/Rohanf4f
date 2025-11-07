@@ -1,106 +1,143 @@
-<!-- 👋 Profile Header -->
-<h1 align="center">Hi 👋, I'm Rohan Patil</h1>
-<h3 align="center">🚀 Passionate Backend Developer | 🌱 AI/ML Enthusiast | ☁️ AWS Practitioner</h3>
+<h1 align="center">🌾 Hey there, I'm Rohan Patil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" /></h1>
 
----
 
-### 💡 About Me
-
-- 🔭 I’m currently working on **FastAPI + AWS SageMaker Integration**
-- 🌱 Exploring **Cloud Deployments, MLOps, and Blockchain Apps**
-- 💬 Ask me about **Python | FastAPI | AWS | PostgreSQL | ML Models**
-- ⚡ Fun fact: I love solving real-world problems through automation and scalable backend systems!
-
----
-
-### 🧠 Tech Stack
-
-#### 💻 Programming & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-#### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-#### 🧩 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🧠 Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-#### 🛠️ Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+<p align="center">
+  <b>💻 Backend Developer | ☁️ AWS & FastAPI Enthusiast | 🤖 AI/ML Explorer | 🔗 Blockchain Innovator</b>
 </p>
 
 ---
 
-### 📦 Featured Projects
+### 🧠 Currently Working In
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=🏢+Climatescence+Private+Limited;💻+As+a+Software+Developer)](https://git.io/typing-svg)
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🪴 **Agro Nation** | Blockchain-based crop supply chain for farmers and distributors ensuring transparency. | Solidity, Ethereum, Web3.js |
-| 🌾 **Agri Info** | Android app providing farming guidance, crop filtering, and pest protection tips. | Java, Android Studio, XML |
-| ✋ **Sign Language Recognition** | CNN + MediaPipe-based system to translate hand gestures into text. | Python, OpenCV, TensorFlow |
-| 🗺️ **QGIS Spatial Plugin** | Custom QGIS plugin for shapefile upload, visualization, and layer management. | Python, PyQt5, QGIS |
-| ☁️ **FastAPI AWS Integration** | Backend connected with SageMaker, S3, and PostgreSQL for model deployment. | FastAPI, AWS, PostgreSQL |
+
+---
+
+### 🚀 About Me
+
+I’m a passionate developer with a strong interest in **Backend Systems**, **AI Integration**, **Geospatial Applications**, and **Blockchain-based solutions**.  
+I love building products that solve real-world problems — whether it’s through **FastAPI microservices**, **AWS cloud automation**, or **machine learning models**.
+
+- 🔭 Currently working on **AI-powered Tree Detection System (AWS + FastAPI + S3 + Postgres)**  
+- 🌱 Learning **Cloud-native deployment & ML model optimization**  
+- 💬 Ask me about **FastAPI, AWS S3, PostgreSQL, Docker, QGIS, or Blockchain**  
+- 📫 Reach me at **[rohanpatil4002@gmail.com](mailto:rohanpatil4002@gmail.com)**  
+- ⚡ Fun fact: I love connecting technology with sustainability 🌱  
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🪴 **AGRO NATION (Blockchain Supply Chain Web Application)**
+> Transparent crop-to-consumer tracking using Ethereum + Solidity.  
+> Farmers can trace every transaction without third-party interference.
+
+#### 🧠 **Sign Language Recognition System (Python Framework)**
+> Real-time sign detection using CNN + MediaPipe with 97% accuracy.
+
+#### 🌾 **AGRI INFO (Smart Farming Guide Android App)**
+> Android app built with Java and XML to help farmers with crop cultivation,  
+> seeding, and pest prevention — includes season-wise crop filtering and best practices.
+
+---
+
+### 📄 Research Papers & Publications  
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Human_Centric_Behaviour_Analytics-IEEE-blue?logo=ieee" alt="Human Centric Behaviour Analytics Paper" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Sign_Language_Recognition-IJRTE-orange?logo=python" alt="Sign Language Recognition System Paper" />
+  </a>
+</p>
+
+**Brief Highlights:**  
+- **Human-Centric Behaviour Analytics:** Explored surveillance-based behavioral patterns with emphasis on human interaction and activity analysis.  
+- **Sign Language Recognition System using CNN:** Real-time gesture recognition system achieving high accuracy, improving communication for deaf-mute individuals.
+
+---
+
+### 🧰 Tech Toolbox  
+
+#### 🖥️ Programming Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,solidity,html,css,js" />
+</p>
+
+#### ⚙️ Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,tensorflow,pytorch,opencv,react,nodejs,express,qt" />
+</p>
+
+#### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions" />
+</p>
+
+#### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+</p>
+
+#### 🧩 Tools & IDEs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,postman,git,github" />
+</p>
+
+
+#### 🤖 AI / ML & Data Science  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+---
+
+### 🌐 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanf4f&theme=react-dark&area=true&hide_border=true" alt="3D Contribution Wave" />
+</p>
 
 ---
 
 ### 🧩 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanf4f&show_icons=true&theme=tokyonight" alt="Rohan's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohanf4f&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohanf4f&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add as many &nbsp; as you need for desired space -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanf4f&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
-### 🌐 3D Contribution Graph
+### 🎓 Certifications & Skills
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/main/docs/demo.gif?raw=true" width="700" />
-</p>
-
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohanf4f&theme=tokyonight&no-frame=true&row=1&column=6" />
+   <img src="https://img.shields.io/badge/Java-SE-blue?logo=java" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android-Development-green?logo=android" alt="Android" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-Cloud-yellow?logo=firebase" alt="Firebase" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Blockchain-Ethereum-purple?logo=ethereum" alt="Blockchain" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-Programming-blue?logo=python" alt="Python" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/whorohanpatil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rohanpatil4002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Rohanf4f"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+  <a href="mailto:rohanpatil4002@gmail.com"><img src="https://img.shields.io/badge/Email-Email-blue?logo=gmail"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/whorohanpatil"><img src="https://img.shields.io/badge/LinkedIn-Rohan-blue?logo=linkedin"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/whorohanpatil"><img src="https://img.shields.io/badge/Twitter-Rohan-blue?logo=twitter"></a>
 </p>
 
----
 
-⭐ *“Turning Ideas into Scalable Solutions.”*  
-🔥 *Let’s build something great together!*
