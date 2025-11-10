@@ -139,6 +139,8 @@ I love building products that solve real-world problems — whether it’s throu
   <a href="https://linkedin.com/in/whorohanpatil"><img src="https://img.shields.io/badge/LinkedIn-Rohan-blue?logo=linkedin"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/whorohanpatil"><img src="https://img.shields.io/badge/Twitter-Rohan-blue?logo=twitter"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a align="left"> <img src="https://komarev.com/ghpvc/?username=Rohanf4f&label=Profile%20views&color=0e75b6&style=flat" alt="Rohanf4f" /> </a>
 </p>
 
 
