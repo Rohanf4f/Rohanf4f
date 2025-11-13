@@ -84,7 +84,7 @@ I love building products that solve real-world problems — whether it’s throu
 
 #### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,firebase" />
 </p>
 
 #### 🧩 Tools & IDEs  
