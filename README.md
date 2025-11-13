@@ -69,7 +69,7 @@ I love building products that solve real-world problems — whether it’s throu
 
 #### 🖥️ Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,solidity,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,solidity,html,js" />
 </p>
 
 #### ⚙️ Frameworks & Libraries  
