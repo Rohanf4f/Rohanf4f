@@ -109,15 +109,6 @@ I love building products that solve real-world problems — whether it’s throu
 
 ---
 
-### 🧩 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohanf4f&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Add as many &nbsp; as you need for desired space -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanf4f&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ### 🎓 Certifications & Skills
 
