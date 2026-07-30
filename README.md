@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Currently Working In
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=🏢+Climatescence+Private+Limited;💻+As+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=🏢+Efficient+Ecosystem+Protection+Association;💻+As+a+Software+Developer)](https://git.io/typing-svg)
 
 
 ---
