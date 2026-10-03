@@ -100,15 +100,6 @@ I love building products that solve real-world problems — whether it’s throu
 
 ---
 
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanf4f&theme=tokyo-night" alt="Rohanf4f's GitHub Activity Graph" />
-</p>
-
-
----
-
 
 ### 🎓 Certifications & Skills
 
